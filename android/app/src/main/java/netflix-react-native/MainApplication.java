@@ -92,6 +92,10 @@ public class MainApplication extends Application implements ReactApplication {
    * @param context
    */
   private static void initializeFlipper(Context context) {
+
+    
+
+
     if (BuildConfig.DEBUG) {
       try {
         /*
